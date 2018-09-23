@@ -1,0 +1,17 @@
+{
+  "name": "nksmtest",
+  "version": "0.0.1",
+  "description": "Simple unit test tool",
+  "main": "test.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "unittest"
+  ],
+  "author": "newnakashima",
+  "license": "ISC"
+}
